@@ -114,22 +114,15 @@ control in the obligations layer is the same category error as putting a specifi
 law inside the lifecycle: the register would begin describing solutions rather
 than duties, which is how a register becomes a product catalogue.
 
-**Agreed is not enacted.** Between a political agreement and publication in the
-official gazette there is a real interval, and during it commentary, official
-guidance and the regulator's own timeline pages can each report a different state
-of the world. `status: transitional` cannot express this — a provisional
-agreement is not a transitional provision. The `contingent_on` object records
-what must happen before an entry's dates bind, when it is expected, and what
-resolved it.
+**Agreed is not enacted.** Between a political agreement and publication in the official gazette there is a real interval, and during it commentary, official guidance and the regulator's own timeline pages can each report a different state of the world. `status: transitional` cannot express this — a provisional agreement is not a transitional provision. The `contingent_on` object records what must happen before an entry's dates bind, when it is expected, and what resolved it.
 
-The Article 50(2) entry carries a worked instance, and it is worked because it
-happened: the entry was written while the Digital Omnibus was an agreement, and
-had to be corrected once Regulation (EU) 2026/1744 was adopted on 8 July 2026 and
-entered into force on 27 July. During that interval, one widely circulated
-timeline graphic claiming to include the amendments carried four wrong dates, and
-the official implementation timeline it drew on was itself showing the
-pre-amendment position more than a week after the amending regulation was in
-force. The field exists because the interval is not hypothetical.
+The Article 50(2) entry carries a worked instance, and it is worked because it happened: the entry was written while the Digital Omnibus was an agreement, and had to be corrected once Regulation (EU) 2026/1744 was adopted on 8 July 2026 and entered into force on 27 July. During that interval, one widely circulated timeline graphic claiming to include the amendments carried four wrong dates, and the official implementation timeline it drew on was itself showing the pre-amendment position more than a week after the amending regulation was in force. The field exists because the interval is not hypothetical.
+
+### Version française
+
+**Un accord n’est pas une adoption.** Entre un accord politique et la publication au Journal officiel, il existe un intervalle réel durant lequel les commentaires, les orientations officielles et les calendriers publiés par le régulateur peuvent chacun présenter un état différent du droit. `status: transitional` ne permet pas de représenter cette situation : un accord provisoire n’est pas une disposition transitoire. L’objet `contingent_on` consigne ce qui doit encore intervenir avant que les dates d’une entrée deviennent contraignantes, la date à laquelle cet événement est attendu et l’événement qui a finalement levé cette contingence.
+
+L’entrée relative à l’article 50, paragraphe 2, en fournit un exemple concret, précisément parce que cette situation s’est produite : l’entrée a été rédigée alors que l’Omnibus numérique faisait encore l’objet d’un accord, puis a dû être corrigée après l’adoption du règlement (UE) 2026/1744, le 8 juillet 2026, et son entrée en vigueur le 27 juillet. Durant cet intervalle, un calendrier graphique largement diffusé, présenté comme intégrant les modifications, comportait quatre dates erronées ; le calendrier officiel de mise en œuvre sur lequel il s’appuyait présentait lui-même encore la situation antérieure à la modification plus d’une semaine après l’entrée en vigueur du règlement modificatif. Ce champ existe parce que cet intervalle n’est pas hypothétique.
 
 ## Coverage findings
 
