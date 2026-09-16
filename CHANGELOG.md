@@ -23,6 +23,7 @@ Format follows Keep a Changelog; versioning follows Semantic Versioning.
 - Obligation register: a jurisdiction-specific layer decomposing each obligation into gate criteria, controls, evidence types and assurance activities, with its own schema and coverage checker.
 - Register support for standing, conditional and anticipatory obligations, including dependencies and coverage findings.
 - One illustrative worked register entry for post-quantum cryptographic migration, demonstrating how the architecture represents an emerging obligation whose governance consequences arise before the obligation fully crystallises.
+- Added Preface: French-language context on the repository’s international scope and evaluation criteria.
 
 ### Changed
 - Register support extended to distinguish enacted, transitional and contingent obligations.
