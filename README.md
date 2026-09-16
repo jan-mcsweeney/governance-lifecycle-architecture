@@ -24,6 +24,12 @@ decomposes legal duties into the lifecycle stages that must carry them. Worked
 examples and conformance checkers are included, so the mechanism can be run
 rather than only read.
 
+### Préface
+
+Ce dépôt est principalement publié en langue française. Son ambition est européenne et internationale. Une documentation en anglais accompagne l’architecture afin d’en faciliter l’accès au-delà de l’espace francophone, avant une ouverture progressive à d’autres langues.
+
+Les critères d'évaluation (rubric anchors) sont provisoires. L'observation la plus utile que vous puissiez adresser est la suivante : évaluez vous-même l'un des cinq exemples au regard du tableau des critères, et indiquez où votre jugement aurait différé. Un désaccord motivé vaut mieux qu'un accord.
+
 ## Start here
 
 Three ways in, depending on what you came for.
