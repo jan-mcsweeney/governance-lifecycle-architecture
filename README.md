@@ -2,15 +2,13 @@
 
 **Model 1** — a reference architecture for connecting governance to operations.
 
+---
+
 ### Préface
 
 Ce dépôt est principalement publié en langue française. Son ambition est européenne et internationale. Une documentation en anglais accompagne l’architecture afin d’en faciliter l’accès au-delà de l’espace francophone, avant une ouverture progressive à d’autres langues.
 
 Les critères d'évaluation (rubric anchors) sont provisoires. L'observation la plus utile que vous puissiez adresser est la suivante : évaluez vous-même l'un des cinq exemples au regard du tableau des critères, et indiquez où votre jugement aurait différé. Un désaccord motivé vaut mieux qu'un accord.
-
----
-
-A register of asset inspections. Every record carries...
 
 ---
 
