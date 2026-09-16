@@ -25,6 +25,7 @@ Format follows Keep a Changelog; versioning follows Semantic Versioning.
 - One illustrative worked register entry for post-quantum cryptographic migration, demonstrating how the architecture represents an emerging obligation whose governance consequences arise before the obligation fully crystallises.
 - Added Preface: French-language context on the repository’s international scope and evaluation criteria.
 - Refined and repositoned Preface.
+- Political agreements and enacted regulations are separate - added FR lang. section
 
 ### Changed
 - Register support extended to distinguish enacted, transitional and contingent obligations.
